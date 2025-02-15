@@ -18,6 +18,6 @@ This project is a clone of the Razorpay website, designed to replicate its user 
 4.Animations and hover effects
 
 **Future Enhancements**
-1.Add interactivity with JavaScript.
-2.Implement a mock payment gateway functionality.
+1.To Add interactivity with JavaScript.
+2.To Implement a mock payment gateway functionality.
 3.Improve accessibility for better user experience.
